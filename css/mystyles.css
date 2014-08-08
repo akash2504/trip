@@ -5,3 +5,14 @@ footer {
 	color: #999;
 	text-align: center;
 }
+
+.image{
+	min-height: 100%;
+	min-width: 100%;
+	background-repeat: no-repeat;
+	background-position: center;
+	background: center fixed;
+}
+body{
+	overflow-x: hidden; 
+}
